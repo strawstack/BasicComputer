@@ -24,4 +24,4 @@ This computer simulation was developed for use as a tool to help me write progra
 
 # demo
 
-A demo program is provided in "program.txt" which adds a series of numbers until the current sum is zero at which point the program logs the last values added to a location in memory and terminates.
+A demo programs are provided "sequence.txt" adds a series of numbers until the current sum is zero at which point the program logs the last values added to a location in memory and terminates. "multiply.txt" multiplies two numbers and stores the result 
